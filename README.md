@@ -7,20 +7,16 @@ The core task was to build a generation system that approximates a real-world sc
 
 ## Core Functionality
 
-* 
-**Camera Integration:** The system interfaces with the local camera to capture real-time images for processing.
+* **Camera Integration:** The system interfaces with the local camera to capture real-time images for processing.
 
 
-* 
-**Constrained Processing:** Images are converted into a LEGO-style format using a grid limited to $100\times100$ bricks.
+* **Constrained Processing:** Images are converted into a LEGO-style format using a grid limited to $100\times100$ bricks.
 
 
-* 
-**Multi-Size Brick Logic:** The implementation supports various brick dimensions (e.g., $1\times1$, $1\times2$, $2\times4$) to visually approximate the source image.
+* **Multi-Size Brick Logic:** The implementation supports various brick dimensions (e.g., $1\times1$, $1\times2$, $2\times4$) to visually approximate the source image.
 
 
-* 
-**Inventory Reporting:** The program generates a summary detailing the total number of bricks and a specific count for each brick type used.
+* **Inventory Reporting:** The program generates a summary detailing the total number of bricks and a specific count for each brick type used.
 
 
 
@@ -28,24 +24,19 @@ The core task was to build a generation system that approximates a real-world sc
 
 A major component of this project involved testing the algorithm in a real-world scenario to identify and solve practical issues. Key areas of focus included:
 
-* 
-**Algorithm Refinement:** Developing a clearly justified pipeline for converting pixels into brick data.
+* **Algorithm Refinement:** Developing a clearly justified pipeline for converting pixels into brick data.
 
 
-* 
-**Handling Environmental Factors:** Identifying problems encountered during camera capture and finding corresponding solutions to improve the output.
+* **Handling Environmental Factors:** Identifying problems encountered during camera capture and finding corresponding solutions to improve the output.
 
 
-* 
-**Human-AI Collaboration:** The foundational implementation was developed in collaboration with Generative AI, followed by manual modifications to ensure the system functioned correctly in practice.
+* **Human-AI Collaboration:** The foundational implementation was developed in collaboration with Generative AI, followed by manual modifications to ensure the system functioned correctly in practice.
 
 
 
 ## Repository Structure
 
-* 
-**`Assignment1.ipynb`**: The Python notebook containing the image processing logic and camera interface.
+* **`Assignment1.ipynb`**: The Python notebook containing the image processing logic and camera interface.
 
 
-* 
-**`Assignment1_Report.pdf`**: A technical report documenting the design process, algorithm logic, and findings.
+* **`Assignment1_Report.pdf`**: A technical report documenting the design process, algorithm logic, and findings.
