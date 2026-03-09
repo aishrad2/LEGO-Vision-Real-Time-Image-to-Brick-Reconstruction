@@ -1,11 +1,5 @@
 # LEGO-Vision-Real-Time-Image-to-Brick-Reconstruction
-Developed a Python-based computer vision system that transforms live camera feeds into stylized LEGO mosaics. The project focuses on the full engineering pipeline: from real-world image acquisition to algorithmic brick-mapping and inventory generation.
-
----
-
-# LEGO-Vision: Image-to-Brick Reconstruction
-
-This project was developed for the COMP4423 Computer Vision course to convert standard digital images into stylized LEGO mosaics. The system focuses on building a complete pipeline that transforms a live camera feed into a structured grid of LEGO bricks.
+Developed a Python-based computer vision system for COMP 4423 Computer Vision course that transforms live camera feeds into stylized LEGO mosaics. The project focuses on the full engineering pipeline: from real-world image acquisition to algorithmic brick-mapping and inventory generation.
 
 ## Project Overview
 
